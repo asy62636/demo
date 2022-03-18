@@ -10,8 +10,10 @@ i was born on 21-08-2003 in india
 how are you?
 how do u do?
 i will sleep tonight
-<<<<<<< HEAD
+
+
 what is your name
-=======
+
+
 hello world
->>>>>>> failsafe
+he is a good boy
